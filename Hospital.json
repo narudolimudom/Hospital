@@ -10,7 +10,7 @@
         "id": 2,
         "name": "โรงพยาบาลท่าเรือ",
         "patient_number": 10,
-        "scan_number":10,
+        "scan_number":100,
         "coordinates": [14.56674157660188, 100.72368662702199]   
     },
     {
