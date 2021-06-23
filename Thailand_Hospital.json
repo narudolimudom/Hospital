@@ -4,6 +4,7 @@
       "name":"รพ.ธรรมศาสตร์เฉลิมพระเกียรติ",
       "patient_number":20,
       "scan_number":50,
+      "Region": "Mid",
       "coordinates":[
          14.07363769559654,
          100.61506380366875
@@ -14,6 +15,7 @@
       "name":"รพ.ท่าเรือ",
       "patient_number":10,
       "scan_number":100,
+      "Region": "Mid",
       "coordinates":[
          14.56674157660188,
          100.72368662702199
@@ -24,6 +26,7 @@
       "name":"รพ.พหลพลพยุหเสนา",
       "patient_number":2,
       "scan_number":3,
+      "Region": "West",
       "coordinates":[
          14.006228455027088,
          99.54617025822377
@@ -34,6 +37,7 @@
       "name":"รพ.ศูนย์บริการการแพทย์นนทบุรี",
       "patient_number":2,
       "scan_number":7,
+      "Region": "Mid",
       "coordinates":[
          13.8253865424253,
          100.45237852665633
@@ -44,6 +48,7 @@
       "name":"รพ.บางกรวย",
       "patient_number":8,
       "scan_number":20,
+      "Region": "Mid",
       "coordinates":[
          13.805243830701777,
          100.47224588432753
@@ -54,6 +59,7 @@
       "name":"รพ.นพรัตนราชธานี",
       "patient_number":45,
       "scan_number":90,
+      "Region": "Mid",
       "coordinates":[
          13.817593120757001,
          100.68798628247805
@@ -64,6 +70,7 @@
       "name":"รพ.เชียงใหม่ราม",
       "patient_number":43,
       "scan_number":78,
+        "Region": "North",
       "coordinates":[
          18.807950520450994, 98.97784161503014
       ]
@@ -73,6 +80,7 @@
       "name":"รพ.ป.แพทย์ 2",
       "patient_number":74,
       "scan_number":300,
+       "Region": "Northeastern",
       "coordinates":[
          14.973629040095812, 102.1102486943253
       ]
