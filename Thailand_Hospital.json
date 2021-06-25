@@ -84,5 +84,25 @@
       "coordinates":[
          14.973629040095812, 102.1102486943253
       ]
+   },
+   {
+      "id":9,
+      "name":"รพ.สิเกา",
+      "patient_number":64,
+      "scan_number":64,
+       "region": "South",
+      "coordinates":[
+         7.56779335769892, 99.3471805231822
+      ]
+   },
+    {
+      "id":10,
+      "name":"รพ.ปากน้ำชุมพร",
+      "patient_number":44,
+      "scan_number":60,
+       "region": "South",
+      "coordinates":[
+         10.44213969814629, 99.24800650381971
+      ]
    }
 ]
