@@ -104,5 +104,36 @@
       "coordinates":[
          10.44213969814629, 99.24800650381971
       ]
+   },
+    {
+      "id":11,
+      "name":"รพ.นครพิงค์",
+      "patient_number":68,
+      "scan_number":210,
+       "region": "North",
+      "coordinates":[
+         18.8516951507154, 98.96812917331816
+      ]
+   },
+     {
+      "id":12,
+      "name":"รพ.สหัสขันธ์",
+      "patient_number":20,
+      "scan_number":25,
+       "region": "Northeastern",
+      "coordinates":[
+         16.710592390782608, 103.51946619147033
+      ]
+   },
+        {
+      "id":13,
+      "name":"รพ.กรุงเทพตราด",
+      "patient_number":45,
+      "scan_number":53,
+       "region": "East",
+      "coordinates":[
+        12.252752635157629, 102.50799326805942
+      ]
    }
+   
 ]
