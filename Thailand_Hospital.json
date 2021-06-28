@@ -42,6 +42,10 @@
       "region": "West",
        "address": "เลขที่ 572 ตำบลปากแพรก อำเภอ เมืองกาญจนบุรี 71000",
       "tel": "034 587 800",
+	   "image":[
+	"https://lh3.googleusercontent.com/proxy/4Dn_Qnb_oC0_MEqcjP902MXvrc4pQCR3C8R-XGJxbXEtj_Zg2gaK0zgFhiVSS2b3reo3l9rBOAFVFFZwvJNKtdCqynl7DUh4DHEY8w8LjFzc5TfORoysqsZPy7cRe0HM0QPl879cOA",
+	"https://cdn.baania.com/b10/property-project/9281/photo/520825.jpg",
+	"https://lh3.googleusercontent.com/proxy/hS5JDKg2d1JHnXmptPHL8YpvWEaNkgQCB6wxsJo296_ZWAeUjl0Os3vqLRIYCm0hH8nwlA1ZWrXQSYc4PRDZsiRK-QOyTK8E0AvvMNfPyqE0woFGzqhV1YGIF5_A44KFBFwik6-5AIZdgehi"],
       "coordinates":[
          14.006228455027088,
          99.54617025822377
@@ -55,6 +59,11 @@
       "region": "Mid",
        "address": "เลขที่ 155 ตำบลบางขุนกอง อำเภอบางกรวย นนทบุรี 11130",
       "tel": "02 432 6167",
+	       "image":[
+	"https://static.thairath.co.th/media/dFQROr7oWzulq5Fa4VljvDM8CJVG8OLJgzby1tRtyBMUhV21mRLVIeIEuyV3ofFyeq1.jpg",
+	"https://s.isanook.com/ns/0/ud/406/2031746/714104-01.jpg",
+	"https://www.hospital.tu.ac.th/tudoctorclub/image/banner-head.png"],
+	   
       "coordinates":[
          13.8253865424253,
          100.45237852665633
@@ -68,6 +77,10 @@
       "region": "Mid",
       "address": "เลขที่ 44 หมู่ 8 ตำบลวัดชลอ อำเภอบางกรวย นนทบุรี 11130",
        "tel": "0 2447 5582",
+	       "image":[
+	"https://static.thairath.co.th/media/dFQROr7oWzulq5Fa4VljvDM8CJVG8OLJgzby1tRtyBMUhV21mRLVIeIEuyV3ofFyeq1.jpg",
+	"https://s.isanook.com/ns/0/ud/406/2031746/714104-01.jpg",
+	"https://www.hospital.tu.ac.th/tudoctorclub/image/banner-head.png"],
       "coordinates":[
          13.805243830701777,
          100.47224588432753
@@ -81,6 +94,10 @@
       "region": "Mid",
        "address": "เลขที่ 679 แขวงคันนายาว เขตคันนายาว กรุงเทพมหานคร 10230",
        "tel": "02 548 1000",
+	       "image":[
+	"https://static.thairath.co.th/media/dFQROr7oWzulq5Fa4VljvDM8CJVG8OLJgzby1tRtyBMUhV21mRLVIeIEuyV3ofFyeq1.jpg",
+	"https://s.isanook.com/ns/0/ud/406/2031746/714104-01.jpg",
+	"https://www.hospital.tu.ac.th/tudoctorclub/image/banner-head.png"],
       "coordinates":[
          13.817593120757001,
          100.68798628247805
@@ -94,6 +111,10 @@
         "region": "North",
          "address": "เลขที่ 8 ตำบลศรีภูมิ อำเภอเมือง เชียงใหม่ 50200",
        "tel": "053 9203002",
+	         "image":[
+	"https://static.thairath.co.th/media/dFQROr7oWzulq5Fa4VljvDM8CJVG8OLJgzby1tRtyBMUhV21mRLVIeIEuyV3ofFyeq1.jpg",
+	"https://s.isanook.com/ns/0/ud/406/2031746/714104-01.jpg",
+	"https://www.hospital.tu.ac.th/tudoctorclub/image/banner-head.png"],
       "coordinates":[
          18.807950520450994, 98.97784161503014
       ]
@@ -106,6 +127,10 @@
        "region": "Northeastern",
        "address": "เลขที่ 294 ตำบลในเมือง อำเภอเมืองนครราชสีมา นครราชสีมา 30000",
        "tel": "044 234 999",
+	        "image":[
+	"https://static.thairath.co.th/media/dFQROr7oWzulq5Fa4VljvDM8CJVG8OLJgzby1tRtyBMUhV21mRLVIeIEuyV3ofFyeq1.jpg",
+	"https://s.isanook.com/ns/0/ud/406/2031746/714104-01.jpg",
+	"https://www.hospital.tu.ac.th/tudoctorclub/image/banner-head.png"],
       "coordinates":[
          14.973629040095812, 102.1102486943253
       ]
@@ -118,6 +143,10 @@
        "region": "South",
              "address": "เลขที่ 231 หมู่ 1 ตำบลบ่อหิน อำเภอสิเกา ตรัง 92150",
        "tel": "075 291017 ต่อ 103",
+	       "image":[
+	"https://static.thairath.co.th/media/dFQROr7oWzulq5Fa4VljvDM8CJVG8OLJgzby1tRtyBMUhV21mRLVIeIEuyV3ofFyeq1.jpg",
+	"https://s.isanook.com/ns/0/ud/406/2031746/714104-01.jpg",
+	"https://www.hospital.tu.ac.th/tudoctorclub/image/banner-head.png"],
       "coordinates":[
          7.56779335769892, 99.3471805231822
       ]
@@ -130,6 +159,10 @@
        "region": "South",
        "address": "เลขที่ 99/5 หมู่ 3 ตำบลปากน้ำชุมพร อำเภอสิเกา ชุมพร 86120",
        "tel": "077 521 048",
+	        "image":[
+	"https://static.thairath.co.th/media/dFQROr7oWzulq5Fa4VljvDM8CJVG8OLJgzby1tRtyBMUhV21mRLVIeIEuyV3ofFyeq1.jpg",
+	"https://s.isanook.com/ns/0/ud/406/2031746/714104-01.jpg",
+	"https://www.hospital.tu.ac.th/tudoctorclub/image/banner-head.png"],
       "coordinates":[
          10.44213969814629, 99.24800650381971
       ]
@@ -142,6 +175,10 @@
        "region": "North",
        "address": "เลขที่ 159 หมู่ 10 ตำบลดอนแก้ว อำเภอแม่ริม เชียงใหม่ 50180 ",
        "tel": "0 5399 9200",
+	        "image":[
+	"https://static.thairath.co.th/media/dFQROr7oWzulq5Fa4VljvDM8CJVG8OLJgzby1tRtyBMUhV21mRLVIeIEuyV3ofFyeq1.jpg",
+	"https://s.isanook.com/ns/0/ud/406/2031746/714104-01.jpg",
+	"https://www.hospital.tu.ac.th/tudoctorclub/image/banner-head.png"],
       "coordinates":[
          18.8516951507154, 98.96812917331816
       ]
@@ -154,6 +191,10 @@
        "region": "Northeastern",
        "address": "เลขที่ 33/3 ตำบลโนนบุรี อำเภอสหัสขันธ์ กาฬสินธุ์ 46140 ",
        "tel": "043 871 157",
+	         "image":[
+	"https://static.thairath.co.th/media/dFQROr7oWzulq5Fa4VljvDM8CJVG8OLJgzby1tRtyBMUhV21mRLVIeIEuyV3ofFyeq1.jpg",
+	"https://s.isanook.com/ns/0/ud/406/2031746/714104-01.jpg",
+	"https://www.hospital.tu.ac.th/tudoctorclub/image/banner-head.png"],
       "coordinates":[
          16.710592390782608, 103.51946619147033
       ]
@@ -166,6 +207,10 @@
        "region": "East",
        "address": "เลขที่ 376 หมู่ 2 ตำบลวังกระแจะ อำเภอเมือง ตราด 23000 ",
        "tel": "039 612 000",
+		    "image":[
+	"https://static.thairath.co.th/media/dFQROr7oWzulq5Fa4VljvDM8CJVG8OLJgzby1tRtyBMUhV21mRLVIeIEuyV3ofFyeq1.jpg",
+	"https://s.isanook.com/ns/0/ud/406/2031746/714104-01.jpg",
+	"https://www.hospital.tu.ac.th/tudoctorclub/image/banner-head.png"],
       "coordinates":[
         12.252752635157629, 102.50799326805942
       ]
