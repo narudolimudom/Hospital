@@ -8,9 +8,9 @@
        "address": "เลขที่ 95 หมู่ที่ 8 ตำบลคลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120",
       "tel": "02 926 9999",
       "image":[
-	{https://lh3.googleusercontent.com/proxy/4Dn_Qnb_oC0_MEqcjP902MXvrc4pQCR3C8R-XGJxbXEtj_Zg2gaK0zgFhiVSS2b3reo3l9rBOAFVFFZwvJNKtdCqynl7DUh4DHEY8w8LjFzc5TfORoysqsZPy7cRe0HM0QPl879cOA},
-	{https://cdn.baania.com/b10/property-project/9281/photo/520825.jpg},
-	{https://lh3.googleusercontent.com/proxy/hS5JDKg2d1JHnXmptPHL8YpvWEaNkgQCB6wxsJo296_ZWAeUjl0Os3vqLRIYCm0hH8nwlA1ZWrXQSYc4PRDZsiRK-QOyTK8E0AvvMNfPyqE0woFGzqhV1YGIF5_A44KFBFwik6-5AIZdgehi}],
+	"https://lh3.googleusercontent.com/proxy/4Dn_Qnb_oC0_MEqcjP902MXvrc4pQCR3C8R-XGJxbXEtj_Zg2gaK0zgFhiVSS2b3reo3l9rBOAFVFFZwvJNKtdCqynl7DUh4DHEY8w8LjFzc5TfORoysqsZPy7cRe0HM0QPl879cOA",
+	"https://cdn.baania.com/b10/property-project/9281/photo/520825.jpg",
+	"https://lh3.googleusercontent.com/proxy/hS5JDKg2d1JHnXmptPHL8YpvWEaNkgQCB6wxsJo296_ZWAeUjl0Os3vqLRIYCm0hH8nwlA1ZWrXQSYc4PRDZsiRK-QOyTK8E0AvvMNfPyqE0woFGzqhV1YGIF5_A44KFBFwik6-5AIZdgehi"],
       "coordinates":[
          14.07363769559654,
          100.61506380366875
@@ -26,9 +26,9 @@
         "address": "เลขที่ 440/1 เทศบาล 2 ตำบลท่าเรือ อำเภอท่าเรือ อยุธยา 13130",
       "tel": "035 341186",
     "image":[
-	{https://static.thairath.co.th/media/dFQROr7oWzulq5Fa4VljvDM8CJVG8OLJgzby1tRtyBMUhV21mRLVIeIEuyV3ofFyeq1.jpg},
-	{https://s.isanook.com/ns/0/ud/406/2031746/714104-01.jpg},
-	{https://www.hospital.tu.ac.th/tudoctorclub/image/banner-head.png}],
+	"https://static.thairath.co.th/media/dFQROr7oWzulq5Fa4VljvDM8CJVG8OLJgzby1tRtyBMUhV21mRLVIeIEuyV3ofFyeq1.jpg",
+	"https://s.isanook.com/ns/0/ud/406/2031746/714104-01.jpg",
+	"https://www.hospital.tu.ac.th/tudoctorclub/image/banner-head.png"],
       "coordinates":[
          14.56674157660188,
          100.72368662702199
