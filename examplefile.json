@@ -2,22 +2,38 @@
    {
       "id":1,
       "name":"A",
+      "address": "112",
       "value":20,
    },
      {
       "id":2,
       "name":"B",
+       "address": "113",
       "value":40,
    },
      {
       "id":3,
       "name":"C",
+       "address": "114",
       "value":60,
    },
      {
       "id":4,
       "name":"D",
+       "address": "115",
       "value":87,
+   },
+     {
+      "id":5,
+      "name":"E",
+       "address": "116",
+      "value":47,
+   },
+        {
+      "id":6,
+      "name":"F",
+       "address": "117",
+      "value":44,
    }
   
   ]
