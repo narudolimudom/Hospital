@@ -1,39 +1,36 @@
 [
-   {
-      "id":1,
-      "name":"A",
-      "address": "112",
-      "value":20,
-   },
-     {
-      "id":2,
-      "name":"B",
-       "address": "113",
-      "value":40,
-   },
-     {
-      "id":3,
-      "name":"C",
-       "address": "114",
-      "value":60,
-   },
-     {
-      "id":4,
-      "name":"D",
-       "address": "115",
-      "value":87,
-   },
-     {
-      "id":5,
-      "name":"E",
-       "address": "116",
-      "value":47,
-   },
-        {
-      "id":6,
-      "name":"F",
-       "address": "117",
-      "value":44,
-   }
+  {
+    "id": 1,
+    "name": "A",
+    "value": 20,
+    "value2": 50,
+    "value3": "90",
+    "value4": "100",
+  },
+{
+    "id": 2,
+    "name": "B",
+    "value": 47,
+    "value2": 48,
+    "value3": "66",
+    "value4": "87",
+  },
+{
+    "id": 3,
+    "name": "C",
+    "value": 44,
+    "value2": 78,
+    "value3": "98",
+    "value4": "25",
+  },
+{
+    "id": 4,
+    "name": "D",
+    "value": 48,
+    "value2": 96,
+    "value3": "22",
+    "value4": "10",
+  }
   
-  ]
+  
+]
