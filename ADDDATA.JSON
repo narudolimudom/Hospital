@@ -358,5 +358,23 @@
       12.252752635157629,
       102.50799326805942
     ]
-  }
+  },
+  {
+      "id":14,
+      "name":"รพ.ขอนแก่นราม",
+"show_data":{"ผู้ป่วย":140,"สแกน":189,"หมอ":110,"เตียง": 180},
+      "colors": {"ผู้ป่วย":"#CCFF66","สแกน":"#FF6666","หมอ":"#2EC4B6","เตียง": "#FFC947"},
+      "region":"Northeastern",
+      "address":"193 ถ. ศรีจันทร์ ตำบลในเมือง อำเภอเมืองขอนแก่น ขอนแก่น 40000 ",
+      "tel":"043 002 002",
+      "image":[
+"https://bangkoklife.com/HappyLifeClub/Upload/Images/06f9ac5266044a9f94fa2e97c61cc948.jpg",
+            "http://www.khonkaenram.com/system/comfy/cms/files/files/000/000/644/original/YESman_3-1_copy.jpg",
+            "http://www.khonkaenram.com/system/comfy/cms/files/files/000/002/798/original/kkram-hospital-pic.jpg"
+      ],
+      "coordinates":[
+            16.4350431787577,
+            102.82120619886803
+      ]
+   }
 ]
