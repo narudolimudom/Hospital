@@ -251,21 +251,5 @@
             102.82120619886803
       ]
    },
-   {
-      "id":15,
-      "name":"รพ.สมเด็จพระเจ้าตากสินมหาราช",
-"show_data":{"ผู้ป่วย":200,"สแกน":250,"หมอ":150},
-      "colors": {"ผู้ป่วย":"#CCFF66","สแกน":"#FF6666","หมอ":"#2EC4B6"},
-      "region":"West",
-      "address":"16 2 ถ. พหลโยธิน ตำบลระแหง อำเภอเมืองตาก ตาก 63000 ",
-      "tel":"055 511 024",
-      "image":[
-"https://www.govesite.com/uploads/20200426112416pLf9OJj/data/20200601202811.jpg",
-            "https://thaihivmap.com/wp-content/uploads/2018/08/Somdejphrajaotaksin-Maharaj-1.jpg",
-      ],
-      "coordinates":[
-            16.877025642988094,
-            99.13146986446554
-      ]
-   }
+
 ]
